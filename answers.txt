@@ -5,3 +5,7 @@ Answer: to make collaborative programming projects easier
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: statistics
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: merging combines branches but rebasing merely switches branches
