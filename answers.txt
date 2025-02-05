@@ -9,3 +9,7 @@ Answer: statistics
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: merging combines branches but rebasing merely switches branches
+
+Q4: What are you looking forward to this semester?
+
+Answer: idk
